@@ -1,2 +1,2 @@
 # machine-learning
-uploading machine learning algorithms.
+ this rep contains machine learning algorithms written in python.
