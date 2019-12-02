@@ -17,7 +17,7 @@ ax.scatter3D(x[:,0],x[:,1],y)
 plt.show()
 
 #initializing gradient descent
-iterations=1500
+iterations=1500 #works well with 200 iterations and alpha being set to 0.1 also
 alpha=0.01
 m=np.size(data,0)
 y=y.reshape(-1,1)
